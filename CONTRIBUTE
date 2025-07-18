@@ -1,0 +1,24 @@
+# 🤝 Contributing to MEV Protection Shield Bot
+
+We welcome contributions that enhance the performance, reliability, or monitoring capabilities of the bot.
+
+## 🧩 How to Contribute
+
+1. Fork the repository
+2. Clone your fork (`git clone https://github.com/your-username/mev-shield.git`)
+3. Create a new branch (`git checkout -b feature/your-feature`)
+4. Commit your changes (`git commit -m 'Add your feature'`)
+5. Push to your branch (`git push origin feature/your-feature`)
+6. Open a Pull Request
+
+## 🧪 Areas of Interest
+
+- Advanced RPC metrics  
+- Wallet activity analysis  
+- Validator performance analytics  
+- Discord/Slack integrations  
+- UI dashboard layer
+
+---
+
+💡 *Let’s build safer blockchain systems—together.*
